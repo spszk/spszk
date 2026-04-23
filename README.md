@@ -1,4 +1,4 @@
-# Cody Badiani
+# Dario Cody Badiani
 
 Welcome to my GitHub profile!
 Explore my code and have a feel for what I'm all about.
