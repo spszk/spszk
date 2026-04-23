@@ -7,13 +7,13 @@ Explore my code and have a feel for what I'm all about.
 
 ### About me
 
-I'm a 27-year-old from Italy and I started teaching myself programming at 18. Now I'm taking a Backend Development course at [DCI Digital Career Institute](https://digitalcareerinstitute.org/) to become a professional.
+I'm a 29-year-old from Italy and I started teaching myself programming at 18. I graduated a Python Backend Development course at [DCI Digital Career Institute](https://digitalcareerinstitute.org/) in 2024.
 
 On my free time I knit sweaters and read a bunch.
 
 ### Work
 
-I'm interested in lots of different fields, namely **research**, **data science**, **web development** and **video game development**.
+I'm interested in different fields, namely **research**, **web development** and **video game development**.
 
 ### My projects
 
